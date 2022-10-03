@@ -1,0 +1,11 @@
+.text{
+    margin-top: 25px;
+}
+
+.color {
+    color: red;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
