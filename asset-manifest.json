@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github/static/css/main.445d8ca9.css",
-    "main.js": "/github/static/js/main.600fad1e.js",
-    "static/js/787.e6647a09.chunk.js": "/github/static/js/787.e6647a09.chunk.js",
-    "index.html": "/github/index.html",
-    "main.445d8ca9.css.map": "/github/static/css/main.445d8ca9.css.map",
-    "main.600fad1e.js.map": "/github/static/js/main.600fad1e.js.map",
-    "787.e6647a09.chunk.js.map": "/github/static/js/787.e6647a09.chunk.js.map"
+    "main.css": "/quest-react-basico/static/css/main.445d8ca9.css",
+    "main.js": "/quest-react-basico/static/js/main.d775a254.js",
+    "static/js/787.e6647a09.chunk.js": "/quest-react-basico/static/js/787.e6647a09.chunk.js",
+    "index.html": "/quest-react-basico/index.html",
+    "main.445d8ca9.css.map": "/quest-react-basico/static/css/main.445d8ca9.css.map",
+    "main.d775a254.js.map": "/quest-react-basico/static/js/main.d775a254.js.map",
+    "787.e6647a09.chunk.js.map": "/quest-react-basico/static/js/787.e6647a09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.445d8ca9.css",
-    "static/js/main.600fad1e.js"
+    "static/js/main.d775a254.js"
   ]
 }
